@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-09-08T09:46:26+00:00",
+  "generatedAt": "2026-09-09T09:50:49+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
